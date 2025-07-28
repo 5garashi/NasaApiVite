@@ -1,0 +1,20 @@
+{
+  "home": {
+    "title": "NASA 写真ギャラリーへようこそ",
+    "description": "ゴカラシドットコムが提供するNASA画像の検索エンジンです。",
+    "link": "NASA写真ページへ",
+    "powerdBy": "React、i18nによるバイリンガルサポート、NASA APIを使用してフォトギャラリーを提供しています。"
+  },
+  "nasaPhoto": {
+    "title": "NASA 写真ギャラリー",
+    "start_date": "開始日",
+    "end_date": "終了日",
+    "search": "検索",
+    "loading": "読み込み中...",
+    "no_photos": "写真が見つかりませんでした。",
+    "video": "🎥 ビデオ（クリックで再生）",
+    "modal_close": "閉じる",
+    "today_to_last_week": "デフォルト：今日から7日前まで"
+    
+  }
+}

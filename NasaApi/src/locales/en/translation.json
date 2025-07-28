@@ -1,0 +1,20 @@
+{
+  "home": {
+    "title": "Welcome to the NASA Photo Gallery!",
+    "description": "5garashi.com provides a way to search NASA's photo collection.",
+    "link": "Visit NASA's Photo Page",
+    "powerdBy":"Powered by React, i18n for bilingual support, and the NASA API for photos."
+  },
+  "nasaPhoto": {
+    "title": "NASA Photo Gallery",
+    "start_date": "Start Date",
+    "end_date": "End Date",
+    "search": "Search",
+    "loading": "Loading...",
+    "no_photos": "No photos found.",
+    "video": "🎥 Video (Click to play)",
+    "modal_close": "Close",
+    "today_to_last_week": "Default: From today to 7 days ago"
+    
+  }
+}
